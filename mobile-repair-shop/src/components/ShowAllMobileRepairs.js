@@ -165,5 +165,4 @@ const ShowAllMobileRepairs = () => {
     </div>
   );
 };
-
 export default ShowAllMobileRepairs;
